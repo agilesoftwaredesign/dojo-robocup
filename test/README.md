@@ -1,0 +1,1 @@
+This test folder should contain implementation-agnostic tests.

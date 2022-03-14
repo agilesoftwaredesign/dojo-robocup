@@ -1,0 +1,13 @@
+POST http://localhost:9852/api/test-setup/1
+
+###
+
+GET http://localhost:9852/api/games
+
+###
+
+GET http://localhost:9852/api/games/22
+
+###
+
+POST http://localhost:9852/api/games/22/step

@@ -1,0 +1,28 @@
+canvas.playground {
+    border: 1px;
+    border-style: solid;
+
+    scale: 2;
+    translate: 0px 50px;
+
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+div.controls {
+    display: block;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
